@@ -1,0 +1,16 @@
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.exe
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.deps.json
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.runtimeconfig.json
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.runtimeconfig.dev.json
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.dll
+C:\Users\danil\Desktop\Apps\SpamBot\bin\Debug\netcoreapp3.1\SpamBot.pdb
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.Form1.resources
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.AssemblyInfo.cs
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.dll
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.pdb
+C:\Users\danil\Desktop\Apps\SpamBot\obj\Debug\netcoreapp3.1\SpamBot.genruntimeconfig.cache
